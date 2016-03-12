@@ -5,6 +5,7 @@
   ],
   "plugins": [
     "espower",
-    "lodash"
+    "lodash",
+    "transform-decorators-legacy"
   ]
 }
