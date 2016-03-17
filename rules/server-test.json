@@ -6,6 +6,7 @@
   "plugins": [
     "espower",
     "lodash",
+    "syntax-async-functions",
     "transform-decorators-legacy"
   ]
 }
