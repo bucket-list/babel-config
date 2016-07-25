@@ -23,13 +23,17 @@
     "release": "release () { npm run pull && if [ -z $1 ]; then npm version patch; else npm version $1; fi && npm run push; }; release"
   },
   "dependencies": {
-    "babel-cli": "6.10.1",
-    "babel-core": "6.10.4",
-    "babel-plugin-lodash": "3.2.0",
+    "babel-cli": "6.11.4",
+    "babel-core": "6.11.4",
+    "babel-plugin-lodash": "3.2.6",
     "babel-plugin-espower": "2.3.1",
     "babel-plugin-syntax-async-functions": "6.8.0",
     "babel-plugin-transform-decorators-legacy": "1.3.4",
-    "babel-preset-es2015": "6.9.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "6.10.3",
+    "babel-plugin-transform-es2015-destructuring": "6.9.0",
+    "babel-plugin-transform-es2015-parameters": "6.11.4",
+    "babel-plugin-transform-es2015-function-name": "6.9.0",
+    "babel-preset-es2016": "6.11.3",
     "babel-preset-stage-0": "6.5.0"
   }
 }
