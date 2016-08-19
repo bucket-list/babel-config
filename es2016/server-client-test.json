@@ -1,0 +1,18 @@
+{
+  "presets": [
+    "es2016",
+    "stage-0",
+    "react"
+  ],
+  "plugins": [
+    "espower",
+    "lodash",
+    "syntax-async-functions",
+    "transform-decorators-legacy",
+    "transform-es2015-modules-commonjs",
+    "transform-es2015-destructuring",
+    "transform-es2015-parameters",
+    "transform-es2015-function-name",
+    "transform-runtime"
+  ]
+}
