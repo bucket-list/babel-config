@@ -1,16 +1,15 @@
 {
-  "name": "babel-config-trejgun",
+  "name": "babel-config",
   "version": "0.0.13",
   "license": "MIT",
   "author": {
-    "name": "Trej Gun",
-    "email": "trejgun@gmail.com",
-    "url": "https://github.com/TrejGun"
+    "name": "ABL",
+    "url": "https://github.com/bucket-list"
   },
   "description": "Babel shared config for es2015-es2016 projects",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TrejGun/babel-config-trejgun.git"
+    "url": "https://github.com/bucket-list/babel-config.git"
   },
   "keywords": [
     "babel",
