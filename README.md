@@ -1,1 +1,1 @@
-# babel-config-trejgun
+# babel-config
