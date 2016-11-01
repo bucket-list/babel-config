@@ -4,6 +4,7 @@
   "license": "MIT",
   "author": {
     "name": "ABL",
+
     "url": "https://github.com/bucket-list"
   },
   "description": "Babel shared config for es2015-es2016 projects",
